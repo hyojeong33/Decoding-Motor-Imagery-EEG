@@ -1,3 +1,6 @@
+'''bash
+hello
+'''
 Detailed Project Proposal & Description
 Project Title: Decoding Motor Imagery EEG: Traditional Machine Learning vs. Deep Learning with Explainable AI (XAI)  Student: Hyojeong Lee A18491673 (Major: Cognitive Science with a Specialization in Machine Learning)
 Format: Solo Project (Non-Headset) 
